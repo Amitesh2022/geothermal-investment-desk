@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Investment guidance</span><h2>Every geothermal project needs geological evidence, risk cover and credible finance</h2><p>Developers, utilities, investors and authorities can coordinate exploration, permitting and long-term heat or power delivery.</p></section></template>
